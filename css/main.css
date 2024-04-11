@@ -1,0 +1,222 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.v61_3 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.fork {
+  width: 29px;
+  height: 33px;
+
+  opacity: 0.3;
+  position: absolute;
+  top: 553px;
+  left: 787px;
+}
+.name {
+  color: #fff;
+}
+.star {
+  width: 35px;
+  height: 33px;
+  
+  opacity: 0.5;
+  position: absolute;
+  top: 549px;
+  left: 597px;
+}
+.v61_4 {
+  width: 100%;
+  height: 30px;
+  background: rgba(228,76,39,1);
+  opacity: 1;
+  position: absolute;
+  top: 690px;
+  left: 0px;
+  overflow: hidden;
+}
+.text1 {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 103px;
+  left: 94px;
+  font-family: sans-serif;
+  font-weight: 10;
+  font-size: 68px;
+  opacity: 1;
+  text-align: left;
+}
+.text2 {
+  width: 100%;
+  color: rgba(0,0,0,0.6299999952316284);
+  position: absolute;
+  top: 315px;
+  left: 94px;
+  font-family: "mona sans", sans-serif;
+  font-weight: lighter;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.contributions-text {
+  width: 417px;
+  color: rgba(0,0,0,0.6299999952316284);
+  position: absolute;
+  top: 599px;
+  left: 155px;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.c-value {
+  width: 23px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 548px;
+  left: 155px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_28 {
+  width: 23px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 547px;
+  left: 453px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_29 {
+  width: 23px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 545px;
+  left: 653px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_30 {
+  width: 23px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 547px;
+  left: 837px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_24 {
+  width: 417px;
+  color: rgba(0,0,0,0.6299999952316284);
+  position: absolute;
+  top: 599px;
+  left: 453px;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_25 {
+  width: 417px;
+  color: rgba(0,0,0,0.6299999952316284);
+  position: absolute;
+  top: 599px;
+  left: 653px;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v61_26 {
+  width: 417px;
+  color: rgba(0,0,0,0.6299999952316284);
+  position: absolute;
+  top: 599px;
+  left: 837px;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+
+.contributions {
+  width: 48px;
+  height: 33px;
+  font-family: sans-serif;
+  font-weight: 100;
+  opacity: 0.5;
+  position: absolute;
+  top: 553px;
+  left: 92px;
+}
+.issues {
+  width: 39px;
+  height: 39px;
+  opacity: 0.5;
+  position: absolute;
+  top: 549px;
+  left: 393px;
+}
+.v61_22 {
+  width: 235px;
+  height: 240px;
+  background: url("../images/v61_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 1303px;
+  border-top-left-radius: 482px;
+  border-top-right-radius: 482px;
+  border-bottom-left-radius: 482px;
+  border-bottom-right-radius: 482px;
+  overflow: hidden;
+}
+.git-logo {
+  width: 70px;
+  height: 70px;
+  background: url("../images/github-mark.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.5;
+  position: absolute;
+  top: 560px;
+  left: 1383px;
+  border-top-left-radius: 482px;
+  border-top-right-radius: 482px;
+  border-bottom-left-radius: 482px;
+  border-bottom-right-radius: 482px;
+  overflow: hidden;
+}
