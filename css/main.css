@@ -3,12 +3,12 @@
 }
 body {
   font-size: 14px;
-  margin-top: -10px;
+  margin-top: -15px;
   overflow: hidden;
 }
 .background {
   width: 100%;
-  height: 1014px;
+  height: 1004px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: relative;
@@ -17,31 +17,31 @@ body {
   overflow: hidden;
 }
 .fork {
-  width: 24px;
-  height: 28px;
+  width: 19px;
+  height: 23px;
   opacity: 0.3;
   position: absolute;
-  top: 543px;
+  top: 533px;
   left: 787px;
 }
 .name {
   color: #fff;
 }
 .star {
-  width: 30px;
-  height: 28px;
+  width: 25px;
+  height: 23px;
   opacity: 0.5;
   position: absolute;
-  top: 539px;
+  top: 529px;
   left: 597px;
 }
 .footer-red {
   width: 100%;
-  height: 25px;
+  height: 20px;
   background: rgba(228,76,39,1);
   opacity: 1;
   position: absolute;
-  top: 680px;
+  top: 675px;
   left: 0px;
   overflow: hidden;
 }
@@ -49,11 +49,11 @@ body {
   width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 93px;
+  top: 88px;
   left: 94px;
   font-family: sans-serif;
   font-weight: 10;
-  font-size: 68px;
+  font-size: 63px;
   opacity: 1;
   text-align: left;
 }
@@ -61,154 +61,153 @@ body {
   width: 100%;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
-  top: 305px;
+  top: 300px;
   left: 94px;
   font-family: "mona sans", sans-serif;
   font-weight: lighter;
-  font-size: 40px;
+  font-size: 35px;
   opacity: 1;
   text-align: left;
 }
 .contributions-text {
-  width: 417px;
+  width: 412px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
-  top: 589px;
+  top: 584px;
   left: 155px;
   font-family: sans-serif;
   font-weight: 100;
-  font-size: 30px;
+  font-size: 25px;
   opacity: 1;
   text-align: left;
 }
 .c-value {
-  width: 18px;
+  width: 13px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 538px;
+  top: 528px;
   left: 155px;
   font-family: Inter;
   font-weight: Regular;
-  font-size: 36px;
+  font-size: 31px;
   opacity: 1;
   text-align: left;
 }
 .i-value {
-  width: 18px;
+  width: 13px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 537px;
+  top: 527px;
   left: 448px;
   font-family: Inter;
   font-weight: Regular;
-  font-size: 36px;
+  font-size: 31px;
   opacity: 1;
   text-align: left;
 }
 .start-v {
-  width: 18px;
+  width: 13px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 535px;
+  top: 525px;
   left: 648px;
   font-family: Inter;
   font-weight: Regular;
-  font-size: 36px;
+  font-size: 31px;
   opacity: 1;
   text-align: left;
 }
 .fork-v{
-  width: 18px;
+  width: 13px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 537px;
+  top: 527px;
   left: 832px;
   font-family: Inter;
   font-weight: Regular;
-  font-size: 36px;
+  font-size: 31px;
   opacity: 1;
   text-align: left;
 }
 .issues-t {
-  width: 417px;
+  width: 412px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
-  top: 589px;
+  top: 584px;
   left: 448px;
   font-family: sans-serif;
   font-weight: 100;
-  font-size: 30px;
+  font-size: 25px;
   opacity: 1;
   text-align: left;
 }
 .star-t {
-  width: 417px;
+  width: 412px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
-  top: 589px;
+  top: 584px;
   left: 648px;
   font-family: sans-serif;
   font-weight: 100;
-  font-size: 30px;
+  font-size: 25px;
   opacity: 1;
   text-align: left;
 }
 .fork-t {
-  width: 417px;
+  width: 412px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
-  top: 589px;
+  top: 584px;
   left: 832px;
   font-family: sans-serif;
   font-weight: 100;
-  font-size: 30px;
+  font-size: 25px;
   opacity: 1;
   text-align: left;
 }
-
 .contributions {
-  width: 43px;
+  width: 38px;
   height: 28px;
   font-family: sans-serif;
   font-weight: 100;
   opacity: 0.5;
   position: absolute;
-  top: 543px;
+  top: 533px;
   left: 82px;
 }
 .issues {
-  width: 34px;
+  width: 29px;
   height: 30px;
   opacity: 0.5;
   position: absolute;
-  top: 539px;
+  top: 529px;
   left: 383px;
 }
 .profile {
-  width: 225px;
-  height: 235px;
+  width: 220px;
+  height: 230px;
   background: url("../images/profile.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 83px;
-  left: 1193px;
+  top: 73px;
+  left: 1188px;
   border-radius: 482px;
   overflow: hidden;
 }
 .git-logo {
-  width: 65px;
-  height: 65px;
+  width: 60px;
+  height: 60px;
   background: url("../images/github-mark.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 0.5;
   position: absolute;
-  top: 550px;
-  left: 1280px;
+  top: 540px;
+  left: 1285px;
   border-radius: 482px;
   overflow: hidden;
 }
