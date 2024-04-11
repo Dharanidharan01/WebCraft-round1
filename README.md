@@ -13,3 +13,7 @@ Font Integration: googlefonts/sans-serif
 
 ## Clone the repository:
 
+ ```
+git clone https://github.com/Dharanidharan01/WebCraft-round1
+
+ ```
