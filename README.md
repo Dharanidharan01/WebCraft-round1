@@ -17,3 +17,6 @@ Font Integration: googlefonts/sans-serif
 git clone https://github.com/Dharanidharan01/WebCraft-round1
 
  ```
+## Screenshots
+
+![image](https://github.com/Dharanidharan01/WebCraft-round1/assets/110535314/685466cc-038f-4077-96a2-8c80b7f4e306)
