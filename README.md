@@ -17,6 +17,11 @@ Font Integration: googlefonts/sans-serif
 git clone https://github.com/Dharanidharan01/WebCraft-round1
 
  ```
+## Figma design
+
+![image](https://github.com/Dharanidharan01/WebCraft-round1/assets/110535314/e0bed30c-ed3f-4349-9707-9823f10c245d)
+
+
 ## Screenshots
 
 ![image](https://github.com/Dharanidharan01/WebCraft-round1/assets/110535314/685466cc-038f-4077-96a2-8c80b7f4e306)
