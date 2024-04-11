@@ -180,7 +180,7 @@ body {
 }
 .issues {
   width: 39px;
-  height: 39px;
+  height: 35px;
   opacity: 0.5;
   position: absolute;
   top: 549px;
@@ -196,7 +196,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 93px;
-  left: 1303px;
+  left: 1103px;
   border-top-left-radius: 482px;
   border-top-right-radius: 482px;
   border-bottom-left-radius: 482px;
