@@ -6,7 +6,7 @@ body {
   overflow-y: hidden;
   overflow-x: hidden;
 }
-.v61_3 {
+.background {
   width: 100%;
   height: 1024px;
   background: rgba(255,255,255,1);
@@ -37,7 +37,7 @@ body {
   top: 549px;
   left: 597px;
 }
-.v61_4 {
+.footer-red {
   width: 100%;
   height: 30px;
   background: rgba(228,76,39,1);
@@ -95,7 +95,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_28 {
+.i-value {
   width: 23px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -107,7 +107,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_29 {
+.start-v {
   width: 23px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -119,7 +119,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_30 {
+.fork-v{
   width: 23px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -131,7 +131,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_24 {
+.issues-t {
   width: 417px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
@@ -143,7 +143,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_25 {
+.star-t {
   width: 417px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
@@ -155,7 +155,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v61_26 {
+.fork-t {
   width: 417px;
   color: rgba(0,0,0,0.6299999952316284);
   position: absolute;
@@ -186,10 +186,10 @@ body {
   top: 549px;
   left: 393px;
 }
-.v61_22 {
+.profile {
   width: 235px;
   height: 240px;
-  background: url("../images/v61_22.png");
+  background: url("../images/profile.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
